@@ -8,7 +8,7 @@ const TabIcon = ({icon, color, name, focused}) => {
              <Image
               source={icon}
               resizeMode="contain"
-              tintColor={color}
+              tintColor={color} 
               className="w-6 h-6"
             />
 
